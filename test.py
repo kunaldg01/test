@@ -1,3 +1,3 @@
-print('heloo')
-print('heloo2')
-print('heloo2')
+print('hello')
+print('hello2')
+print('hello2')
